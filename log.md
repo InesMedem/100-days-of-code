@@ -2,17 +2,17 @@
 
 ### Day 0: July 4, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: today I mostly played around with copilot. I implemented the conditional rendering of the logout button when the user is loged-in, in the Auth app I am creating. 
 
-**Thoughts:** 
+**Thoughts:** I was a bit frustrated because the actual functionality did not really work, so I am leaving it to tomorrow. 
 
 **Link to work:**
 
 ### Day 1: July 5, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: I worked on fixing the Context issue I had in the Auth app I am creating. 
 
-**Thoughts:** 
+**Thoughts:** At first I was quite overwhelmed because I did not understand why my user's token was not being saved, this was preventing me from making progress with other functionalities. I finally think I found the reason, is the authContext. The issue is not fixed but I am slowly piecing everything together. 
 
 **Link to work:**
 
