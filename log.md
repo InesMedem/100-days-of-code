@@ -18,17 +18,17 @@
 
 ### Day 2: July 6, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: today I focused in doing the styles of the Auth App I am creating
 
-**Thoughts:** 
+**Thoughts:** I am using the global styles of a tutorial, but is quite a complete suite. I think I will work on it an tweak it to make it more mine, is very handy to have a kind of base styles sheet that you can start from in most projects. 
 
 **Link to work:**
 
 ### Day 3: July 7, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: today is Sunday. I spent most of my time figuring WordPress out and how to work it locally with XAMPP 
 
-**Thoughts:** 
+**Thoughts:** I was so clueless, because is a very different set up than MERN applications
 
 **Link to work:**
 
