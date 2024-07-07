@@ -6,7 +6,7 @@
 
 **Thoughts:** I was a bit frustrated because the actual functionality did not really work, so I am leaving it to tomorrow. 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 1: July 5, 2024 
 
@@ -14,7 +14,7 @@
 
 **Thoughts:** At first I was quite overwhelmed because I did not understand why my user's token was not being saved, this was preventing me from making progress with other functionalities. I finally think I found the reason, is the authContext. The issue is not fixed but I am slowly piecing everything together. 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 2: July 6, 2024 
 
@@ -22,15 +22,15 @@
 
 **Thoughts:** I am using the global styles of a tutorial, but is quite a complete suite. I think I will work on it an tweak it to make it more mine, is very handy to have a kind of base styles sheet that you can start from in most projects. 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 3: July 7, 2024 
 
 **Today's Progress**: today is Sunday. I spent most of my time figuring WordPress out and how to work it locally with XAMPP 
 
-**Thoughts:** I was so clueless, because is a very different set up than MERN applications
+**Thoughts:** I was so clueless, because is a very different set-up than MERN applications
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/mywordpresssite
 
 ### Day 4: July 8, 2024 
 
