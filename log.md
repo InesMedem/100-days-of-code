@@ -34,11 +34,11 @@
 
 ### Day 4: July 8, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: today i am bussing, I fixed a bug in my Auth App that was impeding the login to work properly and the deployment issues I was having in Vercel are also gone :) 
 
-**Thoughts:** 
+**Thoughts:** happy ^^
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 5: July 9, 2024 
 
