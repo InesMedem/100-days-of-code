@@ -42,11 +42,11 @@
 
 ### Day 5: July 9, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: I made good progress on the Auth App, I am slolwy starting to be able to debug my issues and understand the code I need to write to connect back and front. 
 
-**Thoughts:** 
+**Thoughts:** happy ^^
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 6: July 10, 2024 
 
