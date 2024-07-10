@@ -50,11 +50,11 @@
 
 ### Day 6: July 10, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: today i mostly focused on understanding WordPress, I am creating a theme from scratch
 
-**Thoughts:** 
+**Thoughts:** is a bit messy 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/My-wordpress
 
 ### Day 7: July 11, 2024 
 
