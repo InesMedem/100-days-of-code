@@ -58,11 +58,11 @@
 
 ### Day 7: July 11, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: today i was doing the html of this website for a technical task for a wordpress developer rol, I have been working on it all day, I think another day and the front end part could be done. 
 
-**Thoughts:** 
+**Thoughts:** I wanna understand better how to organise efficiently my ktml/css sheets, because it can get quite messy very quickly 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/rehability
 
 ### Day 8: July 12, 2024 
 
