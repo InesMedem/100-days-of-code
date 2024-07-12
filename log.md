@@ -66,11 +66,11 @@
 
 ### Day 8: July 12, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: i made progress refactoring the styles and thinking a bit more about how to properly css  
 
-**Thoughts:** 
+**Thoughts:** not as obvious as I thought at first, I still have a great deal of experimentation ahead of me I think 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/rehability
 
 ### Day 9: July 13, 2024 
 
