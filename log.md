@@ -74,11 +74,11 @@
 
 ### Day 9: July 13, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: finally finished the front end part, including responsive. This  toom 14 hours in total (spread over 3 days) 
 
-**Thoughts:** 
+**Thoughts:** 😵‍💫
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/rehability
 
 ### Day 10: July 14, 2024 
 
