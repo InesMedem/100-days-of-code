@@ -74,7 +74,7 @@
 
 ### Day 9: July 13, 2024 
 
-**Today's Progress**: finally finished the front end part, including responsive. This  toom 14 hours in total (spread over 3 days) 
+**Today's Progress**: finally finished the front endpart, including responsive. This  took 14 hours in total (spread over 3 days) 
 
 **Thoughts:** 😵‍💫
 
@@ -82,19 +82,19 @@
 
 ### Day 10: July 14, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: make a bit of progress componetizing and uploading it to the remote server 
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/rehability
 
 ### Day 11: July 15, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: the whole morning doing final details, related to the reponsive especially. 
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/rehability
 
 ### Day 12: July 16, 2024 
 
