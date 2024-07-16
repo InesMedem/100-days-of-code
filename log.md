@@ -98,11 +98,11 @@
 
 ### Day 12: July 16, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: I spent so much time traying to understand how to use sass today, and I broke the remote server because of a sftp request that i think included my local database conection details, and replaced the remote db conection details and now I have a 505. Not the best day 
 
-**Thoughts:** 
+**Thoughts:** breaking is part of the process 
 
-**Link to work:**
+**Link to work:** 
 
 ### Day 13: July 17, 2024 
 
