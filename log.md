@@ -106,11 +106,11 @@
 
 ### Day 13: July 17, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: today I really feel I started understanding what sass is about 
 
-**Thoughts:** 
+**Thoughts:** is good if you wanna be modular, I love that you can create mixins which are ultimately like functions that take parameters. Quite cool 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/rehability_sass
 
 ### Day 14: July 18, 2024 
 
