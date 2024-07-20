@@ -114,7 +114,7 @@
 
 ### Day 14: July 18, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: spent most of the day understanding how I was going to do the backend part, without having access to the WordPress dashboard of the original ines-test project. In the end I installed a backup of that in a new WordPress in my own server (so that I can control and fix if I break something) 
 
 **Thoughts:** 
 
@@ -122,11 +122,11 @@
 
 ### Day 15: July 19, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: today I finally managed to understand how to do the back-end, focusing on finishing the sass part and then I can do the backend 
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/rehability_sass
 
 ### Day 16: July 20, 2024 
 
