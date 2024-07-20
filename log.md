@@ -58,9 +58,9 @@
 
 ### Day 7: July 11, 2024 
 
-**Today's Progress**: today i was doing the html of this website for a technical task for a wordpress developer rol, I have been working on it all day, I think another day and the front end part could be done. 
+**Today's Progress**: today I was doing the HTML of this website for a technical task for a WordPress developer role, I have been working on it all day, I think another day and the front end part could be done. 
 
-**Thoughts:** I wanna understand better how to organise efficiently my ktml/css sheets, because it can get quite messy very quickly 
+**Thoughts:** I wanna understand better how to organise efficiently my html/css sheets because it can get quite messy very quickly 
 
 **Link to work:** https://github.com/InesMedem/rehability
 
@@ -74,7 +74,7 @@
 
 ### Day 9: July 13, 2024 
 
-**Today's Progress**: finally finished the front endpart, including responsive. This  took 14 hours in total (spread over 3 days) 
+**Today's Progress**: finally finished the front end part, including the responsive. This  took 14 hours in total (spread over 3 days) 
 
 **Thoughts:** 😵‍💫
 
@@ -90,7 +90,7 @@
 
 ### Day 11: July 15, 2024 
 
-**Today's Progress**: the whole morning doing final details, related to the reponsive especially. 
+**Today's Progress**: the whole morning doing final details, related to the responsive especially. 
 
 **Thoughts:** 
 
@@ -100,7 +100,7 @@
 
 **Today's Progress**: I spent so much time traying to understand how to use sass today, and I broke the remote server because of a sftp request that i think included my local database conection details, and replaced the remote db conection details and now I have a 505. Not the best day 
 
-**Thoughts:** breaking is part of the process 
+**Thoughts:** breaking is part of the process https://www.linkedin.com/feed/update/urn:li:activity:7219264748209467394/
 
 **Link to work:** 
 
