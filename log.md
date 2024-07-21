@@ -130,19 +130,19 @@
 
 ### Day 16: July 20, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: made some progress in the sass front end, especially reponsive
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/rehability_sass
 
 ### Day 17: July 21, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: very annoying day, when I started working on my document the HTML version was not the latest, somehow yesterday's work hadn't been saved. So I had to map everything again and fix an issue with the script. It felt like a wasted day in terms of progress. 
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/rehability_sass
 
 ### Day 18: July 22, 2024 
 
