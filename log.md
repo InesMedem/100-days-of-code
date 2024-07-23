@@ -146,19 +146,19 @@
 
 ### Day 18: July 22, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: started working on the backend
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/rehability-backend
 
 ### Day 19: July 23, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: succesfully completed the backend and 
 
-**Thoughts:** 
+**Thoughts:** very proud! 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/rehability-backend
 
 ### Day 20: July 24, 2024 
 
