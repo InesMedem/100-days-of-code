@@ -162,19 +162,19 @@
 
 ### Day 20: July 24, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: I needed today just to get back into the react mindset and what I had done here. I probably took a break that was too long.  
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 21: July 25, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: I was investigating why when I upload an image using multipart the registration gets stuck in a loop. Eventually, I decided I could come back to this, after much investigation. It must be something in the way multer is configured. Then I went on to fix the registration in the front end. I managed. Finally, I was checking to see if I can show the user name in the dashboard. And it worked but as soon as I refreshed it's not there any more. 
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 22: July 26, 2024 
 
