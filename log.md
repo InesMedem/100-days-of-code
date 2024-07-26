@@ -178,11 +178,11 @@
 
 ### Day 22: July 26, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: today I oficially failed unfortunatly 
 
-**Thoughts:** 
+**Thoughts:** just have to make shure is not two days in a row
 
-**Link to work:**
+**Link to work:** -
 
 ### Day 23: July 27, 2024 
 
