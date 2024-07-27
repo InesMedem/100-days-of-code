@@ -186,7 +186,7 @@
 
 ### Day 23: July 27, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: " it sounds like the user state is not being rehydrated from local storage after a page refresh, causing the user information to disappear."
 
 **Thoughts:** 
 
