@@ -186,11 +186,11 @@
 
 ### Day 23: July 27, 2024 
 
-**Today's Progress**: " it sounds like the user state is not being rehydrated from local storage after a page refresh, causing the user information to disappear."
+**Today's Progress**: Today I was working on solving this -> "the user state is not being rehydrated from local storage after a page refresh, causing the user information to disappear." I also fixed the Registration because it kept returning a message of no
 
-**Thoughts:** 
+**Thoughts:** I feel like if I manage to understand this issue is gonna be a big milestone in understanding how react works better 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 24: July 28, 2024 
 
