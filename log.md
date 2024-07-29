@@ -194,7 +194,7 @@
 
 ### Day 24: July 28, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: today I did not manage to make progress 
 
 **Thoughts:** 
 
@@ -202,11 +202,11 @@
 
 ### Day 25: July 29, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: today was a good day, I finally figured out what was happening to the user state, why it was disapearing after refreshing. It was because there was a function overwriting the info. I corrected it 
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 26: July 30, 2024 
 
