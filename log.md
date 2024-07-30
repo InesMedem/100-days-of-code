@@ -210,11 +210,11 @@
 
 ### Day 26: July 30, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: I did not push a lot of code at all, but I spend quite a lot of time just thinking and really understanding the whole flow if this app. 
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 27: July 31, 2024 
 
