@@ -218,11 +218,11 @@
 
 ### Day 27: July 31, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: today I managed to finish the Login with passcode functionality (in reality is changing password to a login code)
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 28: August 1, 2024 
 
