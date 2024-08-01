@@ -226,11 +226,11 @@
 
 ### Day 28: August 1, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: super happy, I finished the change password with autentication, change name and delete user! Bam!
 
-**Thoughts:** 
+**Thoughts:** slowly picking up a bit of speed :D 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 29: August 2, 2024 
 
