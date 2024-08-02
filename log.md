@@ -234,11 +234,18 @@
 
 ### Day 29: August 2, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: 
 
-**Thoughts:** 
+- refactor: Update login and registration logic in authContext
+Simplify the login and registration logic in the authContext file. Remove the unnecessary token handling and update the user state accordingly. This improves the code readability and reduces complexity.
 
-**Link to work:**
+- made image upload optional in the form
+
+- fixed a package issue with cloudinary
+
+**Thoughts:** i am very excited to see this coming together
+
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 30: August 3, 2024 
 
