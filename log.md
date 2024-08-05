@@ -249,15 +249,19 @@ Simplify the login and registration logic in the authContext file. Remove the un
 
 ### Day 30: August 3, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: went over teh server and tested things 
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 31: August 4, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: Today I created a tipical counter app in order to understand useEffect and useState better. The state is where the info gets stored when it changes, but it requires useEffect to persist if the page is reloaded, 
+- useState only maintains state during the lifecycle of the component, and the state is reset every time the component is re-rendered
+
+![Screenshot 2024-08-05 at 10 51 24](https://github.com/user-attachments/assets/536be407-b136-4456-96d1-baaf7b2f97a4)
+
 
 **Thoughts:** 
 
