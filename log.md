@@ -279,11 +279,11 @@ Simplify the login and registration logic in the authContext file. Remove the un
 
 ### Day 33: August 6, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: I was researching a bit more about use effects, this is why I did a project where i would have to do an API call 
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/RestCountries
 
 ### Day 34: August 7, 2024 
 
@@ -291,7 +291,7 @@ Simplify the login and registration logic in the authContext file. Remove the un
 
 **Thoughts:** 
 
-**Link to work:** https://github.com/InesMedem/Authentication-System
+**Link to work:** https://github.com/InesMedem/Authentication-System and https://github.com/InesMedem/RestCountries
 
 ### Day 35: August 8, 2024 
 
