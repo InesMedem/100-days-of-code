@@ -287,11 +287,11 @@ Simplify the login and registration logic in the authContext file. Remove the un
 
 ### Day 34: August 7, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: Mainly just added the Loading function to the components in the Auth app 
 
 **Thoughts:** 
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/Authentication-System
 
 ### Day 35: August 8, 2024 
 
