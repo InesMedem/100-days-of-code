@@ -311,11 +311,14 @@ Simplify the login and registration logic in the authContext file. Remove the un
 
 ### Day 37: August 10, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**:  Today, I explored using the RestCountries API to build a World Explorer App. We discussed fetching data, storing it in IndexedDB to reduce API calls, and creating features like saving countries to favorites. I implemented an IndexedDB service to handle storing, retrieving, and managing country data locally, ensuring efficient data access. Additionally, I learned how to view IndexedDB data in the browser’s Developer Tools, similar to LocalStorage.
 
-**Thoughts:** 
+**Thoughts:** Working with IndexedDB was insightful. It’s a powerful tool for enhancing app performance and enabling offline capabilities, especially in single-device scenarios. The ability to store and retrieve large datasets locally will be a valuable addition to my projects.
 
-**Link to work:**
+**Link to work:** https://github.com/InesMedem/RestCountries
+
+<img width="1439" alt="Screenshot 2024-08-10 at 12 54 19" src="https://github.com/user-attachments/assets/38c0451f-20ba-4810-a311-4b1f2a03ab30">
+
 
 ### Day 38: August 11, 2024 
 
