@@ -338,7 +338,7 @@ Simplify the login and registration logic in the authContext file. Remove the un
 
 ### Day 40: August 13, 2024 
 
-**Today's Progress**: example text 
+**Today's Progress**: Today was a bit sad, I though I devised best evil masterplan to streamline my porcess of making proposals, though teh creation of an app but it turns out that turning css into pdf is quite a bit more complex than what I was expecting :( 
 
 **Thoughts:** 
 
