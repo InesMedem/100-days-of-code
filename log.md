@@ -344,180 +344,424 @@ Simplify the login and registration logic in the authContext file. Remove the un
 
 **Link to work:**
 
-### Day 41: August 14, 2024 
+**Day 41: September 10, 2024**
 
-**Today's Progress**: example text 
+Today's Progress:
 
-**Thoughts:** 
+Thoughts:
 
-**Link to work:**
+Link to work: [Your link here]
 
-### Day 42: August 15, 2024 
+Day 42: September 11, 2024
+Today's Progress:
 
-**Today's Progress**: example text 
+Thoughts:
 
-**Thoughts:** 
+Link to work: [Your link here]
 
-**Link to work:**
+Day 43: September 12, 2024
+Today's Progress:
 
-### Day 43: August 16, 2024 
+Thoughts:
 
-**Today's Progress**: example text 
+Link to work: [Your link here]
 
-**Thoughts:** 
+Day 44: September 13, 2024
+Today's Progress:
 
-**Link to work:**
+Thoughts:
 
-### Day 44: August 17, 2024 
+Link to work: [Your link here]
 
-**Today's Progress**: example text 
+Day 45: September 14, 2024
+Today's Progress:
 
-**Thoughts:** 
+Thoughts:
 
-**Link to work:**
+Link to work: [Your link here]
 
-### Day 45: August 18, 2024 
+Day 46: September 15, 2024
+Today's Progress:
 
-**Today's Progress**: example text 
+Thoughts:
 
-**Thoughts:** 
+Link to work: [Your link here]
 
-**Link to work:**
+Day 47: September 16, 2024
+Today's Progress:
 
-### Day 46: August 19, 2024 
+Thoughts:
 
-**Today's Progress**: example text 
+Link to work: [Your link here]
 
-**Thoughts:** 
+Day 48: September 17, 2024
+Today's Progress:
 
-**Link to work:**
+Thoughts:
 
-### Day 47: August 20, 2024 
+Link to work: [Your link here]
 
-**Today's Progress**: example text 
+Day 49: September 18, 2024
+Today's Progress:
 
-**Thoughts:** 
+Thoughts:
 
-**Link to work:**
+Link to work: [Your link here]
 
-### Day 48: August 21, 2024 
+Day 50: September 19, 2024
+Today's Progress:
 
-**Today's Progress**: example text 
+Thoughts:
 
-**Thoughts:** 
+Link to work: [Your link here]
 
-**Link to work:**
+Day 51: September 20, 2024
+Today's Progress:
 
-### Day 49: August 22, 2024 
+Thoughts:
 
-**Today's Progress**: example text 
+Link to work: [Your link here]
 
-**Thoughts:** 
+Day 52: September 21, 2024
+Today's Progress:
 
-**Link to work:**
+Thoughts:
 
-### Day 50: August 23, 2024 
+Link to work: [Your link here]
 
-**Today's Progress**: example text 
+Day 53: September 22, 2024
+Today's Progress:
 
-**Thoughts:** 
+Thoughts:
 
-**Link to work:**
+Link to work: [Your link here]
 
-### Day 51: August 24, 2024 
+Day 54: September 23, 2024
+Today's Progress:
 
-**Today's Progress**: example text 
+Thoughts:
 
-**Thoughts:** 
+Link to work: [Your link here]
 
-**Link to work:**
+Day 55: September 24, 2024
+Today's Progress:
 
-### Day 52: August 25, 2024 
+Thoughts:
 
-**Today's Progress**: example text 
+Link to work: [Your link here]
 
-**Thoughts:** 
+Day 56: September 25, 2024
+Today's Progress:
 
-**Link to work:**
+Thoughts:
 
-### Day 53: August 26, 2024 
+Link to work: [Your link here]
 
-**Today's Progress**: example text 
+Day 57: September 26, 2024
+Today's Progress:
 
-**Thoughts:** 
+Thoughts:
 
-**Link to work:**
+Link to work: [Your link here]
 
-### Day 54: August 27, 2024 
+Day 58: September 27, 2024
+Today's Progress:
 
-**Today's Progress**: example text 
+Thoughts:
 
-**Thoughts:** 
+Link to work: [Your link here]
 
-**Link to work:**
+Day 59: September 28, 2024
+Today's Progress:
 
-### Day 55: August 28, 2024 
+Thoughts:
 
-**Today's Progress**: example text 
+Link to work: [Your link here]
 
-**Thoughts:** 
+Day 60: September 29, 2024
+Today's Progress:
 
-**Link to work:**
+Thoughts:
 
-### Day 56: August 29, 2024 
+Link to work: [Your link here]
 
-**Today's Progress**: example text 
+Day 61: September 30, 2024
+Today's Progress:
 
-**Thoughts:** 
+Thoughts:
 
-**Link to work:**
+Link to work: [Your link here]
 
-### Day 57: August 30, 2024 
+Day 62: October 1, 2024
+Today's Progress:
 
-**Today's Progress**: example text 
+Thoughts:
 
-**Thoughts:** 
+Link to work: [Your link here]
 
-**Link to work:**
+Day 63: October 2, 2024
+Today's Progress:
 
-### Day 58: August 31, 2024 
+Thoughts:
 
-**Today's Progress**: example text 
+Link to work: [Your link here]
 
-**Thoughts:** 
+Day 64: October 3, 2024
+Today's Progress:
 
-**Link to work:**
+Thoughts:
 
-### Day 59: September 1, 2024 
+Link to work: [Your link here]
 
-**Today's Progress**: example text 
+Day 65: October 4, 2024
+Today's Progress:
 
-**Thoughts:** 
+Thoughts:
 
-**Link to work:**
+Link to work: [Your link here]
 
-### Day 60: September 2, 2024 
+Day 66: October 5, 2024
+Today's Progress:
 
-**Today's Progress**: example text 
+Thoughts:
 
-**Thoughts:** 
+Link to work: [Your link here]
 
-**Link to work:**
+Day 67: October 6, 2024
+Today's Progress:
 
-### Day 61: September 3, 2024 
+Thoughts:
 
-**Today's Progress**: example text 
+Link to work: [Your link here]
 
-**Thoughts:** 
+Day 68: October 7, 2024
+Today's Progress:
 
-**Link to work:**
+Thoughts:
 
-### Day 62: September 4, 2024 
+Link to work: [Your link here]
 
-**Today's Progress**: example text 
+Day 69: October 8, 2024
+Today's Progress:
 
-**Thoughts:** 
+Thoughts:
 
-**Link to work:**
+Link to work: [Your link here]
 
-### Day 63: September 5,
+Day 70: October 9, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 71: October 10, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 72: October 11, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 73: October 12, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 74: October 13, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 75: October 14, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 76: October 15, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 77: October 16, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 78: October 17, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 79: October 18, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 80: October 19, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 81: October 20, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 82: October 21, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 83: October 22, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 84: October 23, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 85: October 24, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 86: October 25, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 87: October 26, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 88: October 27, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 89: October 28, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 90: October 29, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 91: October 30, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 92: October 31, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 93: November 1, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 94: November 2, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 95: November 3, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 96: November 4, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 97: November 5, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 98: November 6, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 99: November 7, 2024
+Today's Progress:
+
+Thoughts:
+
+Link to work: [Your link here]
+
+Day 100: November 8, 2024
+Today's Progress:
+
+Thoughts:
+
+**Link to work
+
