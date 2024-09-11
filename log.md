@@ -352,12 +352,13 @@ Thoughts:
 
 Link to work: [Your link here]
 
-Day 42: September 11, 2024
-Today's Progress:
+**Day 42: September 11, 2024**
 
-Thoughts:
+Today's Progress: getting familiar with JavaScript, after having focused only on react for too long. Going back to basics
 
-Link to work: [Your link here]
+Thoughts: It felt so got to get back into it, but is exhausting.
+
+Link to work: (https://github.com/InesMedem/JavaScript-Exercises)
 
 Day 43: September 12, 2024
 Today's Progress:
